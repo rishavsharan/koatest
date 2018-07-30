@@ -3,7 +3,7 @@ var assert = require('assert');
 const range = (max) => Array.from({length: max}, (value, key) => key)
 const pass_percentage = (p) => Math.random() > (1- p/100)
 
-const coll = range(1000000)
+const coll = range(100000)
 const pass = 80
 
 describe('Feature: Server can respond to requests', () => {
