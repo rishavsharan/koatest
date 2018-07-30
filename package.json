@@ -4,7 +4,7 @@
   "description": "Testing Koa app in VSTS",
   "main": "src/main.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --reporter mocha-junit-reporter"
   },
   "author": "Rishav Sharan",
   "license": "ISC",

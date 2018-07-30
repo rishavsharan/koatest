@@ -9,7 +9,7 @@ const pass = 80
 describe('Feature: Server can respond to requests', () => {
     describe('User gotos base url and receives server greeting', () => {
         coll.forEach((i) => {
-            it('Server should say Hello!', () => {
+            it(`test case ${i}`, () => {
                 assert.ok(pass_percentage(pass));
             });
         });

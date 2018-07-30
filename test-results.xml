@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.011" tests="100" failures="24">
+  <testsuite name="Root Suite" timestamp="2018-07-30T12:38:19" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Feature: Server can respond to requests" timestamp="2018-07-30T12:38:19" tests="0" file="C:\Users\risharan\Documents\Workspace\projects\koatest\test\tests.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="User gotos base url and receives server greeting" timestamp="2018-07-30T12:38:19" tests="100" file="C:\Users\risharan\Documents\Workspace\projects\koatest\test\tests.js" failures="24" time="0.011">
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0.01" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0.001" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+      <failure><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\tests.js:13:24)]]></failure>
+    </testcase>
+    <testcase name="Feature: Server can respond to requests User gotos base url and receives server greeting test case #${i}" time="0" classname="test case #${i}">
+    </testcase>
+  </testsuite>
+</testsuites>
