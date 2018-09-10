@@ -13,17 +13,17 @@ const asyncForEach = async (array, callback) => {
     }
 }
 
-const num = 10
+const num = 100
 const passrate = 80
 
-test.createStream().pipe(appveyor());
+// test.createStream().pipe(appveyor());
 
 test('My fancy test harness ',  (t) => {
     t.plan(num);
 
 
     asyncForEach([...Array(num).keys()], async (i) => {
-        await helpers.sleep(1000)
+        await sleep(100)
         t.ok(pass_percentage(passrate), 'inside delayed');
     })
 })
