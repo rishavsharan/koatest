@@ -26,5 +26,7 @@ test('My fancy test harness ',  (t) => {
         await sleep(100)
         t.ok(pass_percentage(passrate), 'inside delayed');
     })
+
+    t.end()
 })
 
