@@ -16,7 +16,7 @@ const asyncForEach = async (array, callback) => {
 const num = 100
 const passrate = 80
 
-// test.createStream().pipe(appveyor());
+test.createStream().pipe(appveyor());
 
 test('My fancy test harness ',  (t) => {
     t.plan(num);
