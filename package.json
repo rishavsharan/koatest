@@ -8,7 +8,7 @@
     "test-mocha": "mocha --reporter mocha-junit-reporter --reporter-options mochaFile=./test-results/unit-tests/results.xml",
     "test-mocha-tap": "mocha --reporter tap || exit 0",
     "test-vsts": "mocha --reporter vsts-reporter --reporter-options realtime=true mochaFile=./test-results/unit-tests/results.xml",
-    "test-tape-av": "node '/test/tapetest.js' || exit 0"
+    "test-tape-av": "node ./test/tapetest.js || exit 0"
   },
   "author": "Rishav Sharan",
   "license": "ISC",
