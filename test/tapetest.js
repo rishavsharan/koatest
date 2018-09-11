@@ -18,13 +18,12 @@ const passrate = 80
 
 test.createStream().pipe(appveyor());
 
-test('My fancy test harness ',  (t) => {
+test('My Tape test harness :', {batchSize:1}, (t) => {
     t.plan(num);
-
 
     asyncForEach([...Array(num).keys()], async (i) => {
         await sleep(100)
-        t.ok(pass_percentage(passrate), 'inside delayed');
+        t.ok(pass_percentage(passrate), `Slow Test ${i}`);
     })
 
     t.end()
