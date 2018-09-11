@@ -22,7 +22,7 @@ test('My Tape test harness :', {batchSize:1}, (t) => {
     t.plan(num);
 
     asyncForEach([...Array(num).keys()], async (i) => {
-        await sleep(100)
+        await sleep(1000)
         t.ok(pass_percentage(passrate), `Slow Test ${i}`);
     })
 
