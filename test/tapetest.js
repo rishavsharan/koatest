@@ -16,14 +16,16 @@ const asyncForEach = async (array, callback) => {
 const num = 100
 const passrate = 80
 
-test.createStream().pipe(appveyor());
-
+// test.createStream()
+//     .pipe(appveyor())
+//     .pipe(process.stdout);
+    
 test('My Tape test harness :', {batchSize:1}, (t) => {
     t.plan(num);
 
     asyncForEach([...Array(num).keys()], async (i) => {
         await sleep(1000)
-        t.ok(pass_percentage(passrate), `Slow Test ${i}`);
+        t.ok(pass_percentage(passrate), `Slow Test`);
     })
 
     t.end()
